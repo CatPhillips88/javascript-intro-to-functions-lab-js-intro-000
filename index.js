@@ -22,5 +22,5 @@ function sayHiToGrandma(string) {
     sayHiToGrandma.toLowerCase()
     return "I can\'t hear you!"
   }
-    
+
 }
