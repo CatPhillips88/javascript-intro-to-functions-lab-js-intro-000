@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
     return "I can\'t hear you!"
 
     var sayHiToGrandma = 'HELLO'
-    sayHiToGrandma.toUpperCase()
+    sayHiToGrandma.toUpperCase() === sayHiToGrandma
     return "YES INDEED!"
 
 }
