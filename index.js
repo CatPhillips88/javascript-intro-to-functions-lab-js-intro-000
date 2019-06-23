@@ -22,8 +22,3 @@ function sayHiToGrandma(string) {
     return "I can\'t hear you!"
 }
 
-function sayHiToGrandma(string) {
-  var sayHiToGrandma = "HELLO"
-  sayHiToGrand.toUpperCase()
-  return "YES INDEED!"
-}
