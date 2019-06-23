@@ -20,7 +20,12 @@ function sayHiToGrandma(string) {
     var sayHiToGrandma = 'hello'
     sayHiToGrandma.toLowerCase()
     return "I can\'t hear you!"
-
-
-
 }
+
+function sayHiToGrandma(string) {
+  var sayHiToGrandma = "HELLO"
+  sayHiToGrand.toUpperCase()
+  return "YES INDEED!"
+}
+
+
